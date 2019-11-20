@@ -1,6 +1,6 @@
 h1 {
     font-family: Arial, Helvetica, sans-serif;
-    color: rosybrown;
+    color: red;
 }
 header {
     border: linen 2px solid;
@@ -23,7 +23,7 @@ a {
 footer {
     font-size: 10px;
     font-family: Arial, Helvetica, sans-serif;
-    color: rosybrown;
+    color: red;
 }
 #contents {
     padding: 0px;

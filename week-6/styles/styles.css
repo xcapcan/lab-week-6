@@ -13,7 +13,7 @@ div {
   }
 #ji {
     font-family: 'Yeseva One', cursive;
-    color: lightseagreen
+    color: green;
   }
   nav {
     font-size: 15px;
@@ -30,7 +30,7 @@ div {
   footer {
     font-size: 25px;
     font-family: Arial, Helvetica, sans-serif;
-    color: rosybrown;
+    color: red;
     max-width:300px;
     height: 10px;
 }

@@ -1,0 +1,34 @@
+#heading {
+    /*color of the font that cannot be possibly ever seen*/
+    color: white;
+    /*border of a crazy color with weird width*/
+    border: violet solid 10px;
+    width: 300px;
+    /*cannot see the text on this color*/
+    background-color: yellow;
+    /*thick font to add some spice to the heading*/
+    font-family: fantasy;
+}
+body {
+    /*very nice calming picture to destress your eyes*/
+    background-image: url(images0013.jpg);
+}
+/*i've found this animation online and decided to use it for the link*/
+#money {
+    font-size: 50px;
+    background-color: tomato;
+    animation-duration: 3s;
+    animation-name: slidein;
+  }
+  
+  @keyframes slidein {
+    from {
+      margin-left: 100%;
+      width: 300%; 
+    }
+  
+    to {
+      margin-left: 0%;
+      width: 100%;
+    }
+  }
